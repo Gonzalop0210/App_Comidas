@@ -50,7 +50,6 @@ function proceso() {
       } else {
          count[pedidoCliente]++
       }
-      /* console.log(`${count[pedidoCliente]} ${pedidoCliente}_______ ${cartaPlatos[pedidoCliente][1]*count[pedidoCliente]}$`); */
    })
 
    console.log("");
